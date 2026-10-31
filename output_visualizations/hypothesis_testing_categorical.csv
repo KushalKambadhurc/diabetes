@@ -1,0 +1,5 @@
+Factor,Chi2 Statistic,Degrees of Freedom,p-value,Cramer's V,Conclusion
+hypertension,3909.51,1,< 1e-10,0.1977,Reject H0 (Dependent/Associated)
+heart_disease,2945.01,1,< 1e-10,0.1716,Reject H0 (Dependent/Associated)
+smoking_history,1955.94,5,< 1e-10,0.1399,Reject H0 (Dependent/Associated)
+gender,141.25,1,< 1e-10,0.0376,Reject H0 (Dependent/Associated)
